@@ -1,1 +1,7 @@
+<<<<<<< HEAD
  https://github.com/CH7279/GIT hiiiiiiiiii bbb
+=======
+
+
+JHGFCDjhnghfgddhiiiiiiiiii
+>>>>>>> 061923f07a66b50deb96e695a1e65a9172e49c1b
